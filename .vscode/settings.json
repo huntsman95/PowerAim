@@ -1,0 +1,6 @@
+{
+    "powershell.debugging.createTemporaryIntegratedConsole": true,
+    "powershell.integratedConsole.suppressStartupBanner": true,
+    "powershell.powerShellDefaultVersion": "",
+    "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationForFirstPipeline"
+}
