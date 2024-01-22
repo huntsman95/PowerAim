@@ -2,5 +2,6 @@
     "powershell.debugging.createTemporaryIntegratedConsole": true,
     "powershell.integratedConsole.suppressStartupBanner": true,
     "powershell.powerShellDefaultVersion": "",
-    "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationForFirstPipeline"
+    "powershell.codeFormatting.pipelineIndentationStyle": "IncreaseIndentationForFirstPipeline",
+    "cSpell.words": []
 }

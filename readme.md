@@ -15,8 +15,8 @@ Battlefield2042        8.18
 ```
 
 ## Adding more games
-1. Create a folder in the .\private\games\ folder with the name of the game (no-spaces preferred)
-2. Create a convert.ps1 file in the folder with the relevant aim equations for CM/360deg at 800dpi based on in-game aim value. (See existing files for example)
+1. Create a folder in the `.\private\games\` folder with the name of the game (no spaces preferred)
+2. Create a convert.ps1 file in the folder with the relevant aim equations for CM/360deg at 800dpi based on your in-game aim value. (See existing files for example)
 
 ## To-Do
 - Add auto-game configuration for games that have offline config files
